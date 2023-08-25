@@ -16,3 +16,6 @@ The attributes provided in the dataset can serve as input features for the predi
 9.	Recent 5-Year Trend (Ë†) in Incidence Rates: 5-year trend in incidence rates provides a more extended period for analyzing the direction of change compared to the previous attribute.
 10.	Lower 95% Confidence Interval.1: Lower bound of the confidence interval for the recent 5-year trend in incidence rates provides additional information about the uncertainty associated with the trend.
 11.	Upper 95% Confidence Interval.1: Upper bound of the confidence interval for the recent 5-year trend in incidence rates provides information about the range within which the true trend is likely to fall.
+
+Result:
+Cancer Status -> Falling, Stable, Rising
