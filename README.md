@@ -27,5 +27,5 @@ Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 Implemented machine learning algorithms in Python.
 
 ## Standout Characteristics
-• Achieved a high predictive accuracy of 85% in determining cancer incidence or mortality rates, showcasing the effectiveness of the machine learning model.
-• Comprehensive documentation was done ensuring the transfer of knowledge and insights derived from the project.
+1. Achieved a high predictive accuracy of 85% in determining cancer incidence or mortality rates, showcasing the effectiveness of the machine learning model.
+2. Comprehensive documentation was done ensuring the transfer of knowledge and insights derived from the project.
