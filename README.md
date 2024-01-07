@@ -1,9 +1,9 @@
 # Cancer-Mortality-and-Incidence-Rates-Classification
 
-Project Description:
+## Project Description
 Cancer is a complex and multifaceted disease that can have a profound impact on individuals, families, and communities. In order to understand the scope and impact of cancer, it is important to track key measures such as cancer mortality and incidence rates. These measures provide important insights into the prevalence and impact of cancer within a given population, as well as how this burden is changing over time. The causes of cancer mortality and incidence rates are complex and multifactorial, involving a combination of genetic, environmental, and lifestyle factors. Machine learning algorithms can be trained on large datasets of cancer-related data, including patient demographics, medical histories, genetic data, and other relevant factors, to identify patterns and predict cancer mortality and incidence rates. The goal of this task is to predict status of cancer incidence or mortality rate based on a set of features.
 
-Attribute Information:
+## Attribute Information
 The attributes provided in the dataset can serve as input features for the prediction task. Here's a breakdown of the attributes and their potential roles in the prediction:
 1.	Index: Index or unique identifier for each data entry. It doesn't provide any predictive value and can be ignored during the modeling process.
 2.	County: The county attribute represents the geographical location of the data entry. It can be useful for analyzing regional variations in cancer rates and potentially capturing the impact of localized factors.
@@ -17,5 +17,15 @@ The attributes provided in the dataset can serve as input features for the predi
 10.	Lower 95% Confidence Interval.1: Lower bound of the confidence interval for the recent 5-year trend in incidence rates provides additional information about the uncertainty associated with the trend.
 11.	Upper 95% Confidence Interval.1: Upper bound of the confidence interval for the recent 5-year trend in incidence rates provides information about the range within which the true trend is likely to fall.
 
-Result:
+## Result
 Cancer Status -> Falling, Stable, Rising
+
+## Tech at Play
+### Python libraries
+Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+### Algorithm
+Implemented machine learning algorithms in Python.
+
+## Standout Characteristics
+Achieved a high predictive accuracy of 85% in determining cancer incidence or mortality rates, showcasing the effectiveness of the machine learning model.
+Comprehensive documentation was done ensuring the transfer of knowledge and insights derived from the project.
